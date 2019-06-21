@@ -1,0 +1,17 @@
+.meterbar:hover{
+width: 100px;
+height: 100px;
+background: red;
+-webkit-transition: width 5s;
+transition: width 5s;
+}
+
+.meterbar {
+    border-radius: 4px;
+    padding: 10px 15px;
+    width: 12px;
+    margin:10px;
+    background-color: #aaa;
+    color: #fff;
+    cursor: pointer;
+}

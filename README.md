@@ -1,0 +1,2 @@
+The hover adder in CSS allows you to slow down the amount of time it takes for the color to appear.
+Theres also a nice trick that allows you to get rid of the 'I' cursor and add a pointer to it with cursor: pointer; 
